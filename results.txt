@@ -1,0 +1,4 @@
+The script is called: ex13.rb
+Your first variable is: 1
+Your second variable is: 2
+Your third variable is: 3
